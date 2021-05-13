@@ -1,0 +1,97 @@
+Namespaces
+
+	A Namespace is a declarative region that provides a scope to the identifiers (the names of types, functions, variables, etc) inside it. Used to organize code into logical groups and to prevent name collisions that can occur especially when your code base includes multiple libraries.
+
+	All identifiers at namespace scope are visible to one another without qualification. Identifiers outside of the namespace can access the members by using the fully qualified name for each identifier, for example:
+
+		std::vector<std::string>vec;
+
+	or by "using" declaration for a single identifier (using std::string), or a "using" directive for all the identifiers in the namespace (using namespace std;). Code in header files should always use the fully qualified namespace name.
+
+
+		namespace ContosData
+		{
+			class ObjectManager
+			{
+				public:
+					void DoSomething() {}
+			};
+			void Func(ObjectManager) {}
+		}
+
+			# Access using the fully qualified name:
+
+		ContosData::ObjectManager mgr;
+		mgr.DoSomething();
+		ContosData::Func(mgr);
+
+			# Access using a "using" declaration to bring one identifer into scope:
+
+		using ContosData::ObjectManager;
+		ObjectManager mgr;
+		mgr.DoSomething();
+
+			# Access using a "using" directive to bring everything in the namespace into scope:
+
+		using namespace ContosData;
+
+		ObjectManager mgr;
+		mgr.DoSomething();
+		Func(mgr);
+
+
+The following are predefined keywords in c++
+
+	asm 			else 		new 				this
+	auto 			enum 		operator	 		throw
+	bool 			explicit 	private 			true
+	break 			export 		protected 			try
+	case 			extern 		public 				typedef
+	catch 			false 		register 			typeid
+	char 			float 		reinterpret_cast 	typename
+	class 			for 		return 				union
+	const 			friend 		short 				unsigned
+	const_cast 		goto 		signed 				using
+	continue 		if 			sizeof 				virtual
+	default 		inline 		static 				void
+	delete 			int 		static_cast 		volatile
+	do 				long 		struct 				wchar_t
+	double	 		mutable 	switch 				while
+	dynamic_cast 	namespace 	template 	 
+
+
+
+Built-in Types:
+
+	Type 					Keyword
+
+	Boolean 				bool
+	character 				char
+	Integer 				int
+	Floating point 			float
+	Double floating point 	double
+	Valueless 				void
+	Wide character 			wchar_t
+
+
+Types and memory space usage:
+
+	Type 		Typical Bit Width 	Typical Range
+	char 					1byte 	-127 to 127 or 0 to 255
+	unsigned char 			1byte 	0 to 255
+	signed char 			1byte 	-127 to 127
+	int 					4bytes 	-2147483648 to 2147483647
+	unsigned int 			4bytes 	0 to 4294967295
+	signed int 				4bytes 	-2147483648 to 2147483647
+	short int 				2bytes 	-32768 to 32767
+	unsigned short int 		2bytes 	0 to 65,535
+	signed short int 		2bytes 	-32768 to 32767
+	long int 				8bytes 	-2,147,483,648 to 2,147,483,647
+	signed long int 		8bytes 	same as long int
+	unsigned long int		8bytes 	0 to 4,294,967,295
+	long long int 			8bytes 	-(2^63) to (2^63)-1
+	unsigned long long int 	8bytes 	0 to 18,446,744,073,709,551,615
+	float 					4bytes 	
+	double 					8bytes 	
+	long double 			12bytes 	
+	wchar_t 				2 or 4 bytes 	1 wide character

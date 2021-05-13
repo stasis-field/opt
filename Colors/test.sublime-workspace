@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"AND",
+				"and"
+			],
+			[
+				"ldmax",
+				"ldmax"
+			],
+			[
+				"inc",
+				"init\tpygame(joystick) "
+			],
+			[
+				"in",
+				"init\tpygame(font) "
+			],
+			[
+				"rec",
+				"Rect\tpygame(Rect) "
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"arith",
+				"Arithmetic"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"word wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"text synta",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"synta",
+				"Syntax Manager: Edit Settings"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"scope",
+				"Set Syntax: Syntax Highlighting Scopes Showroom"
+			],
+			[
+				"settings",
+				"Set Syntax: Sublime Text Settings (JSON)"
+			],
+			[
+				"profile",
+				"Plugin Development: Profile Events"
+			],
+			[
+				"marker",
+				"Preferences: Text Marker Settings"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"makr",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"multi",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 183.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/scrith/src/C_Learn/Functions.c",
+		"/home/scrith/src/C_Learn/Flow.c",
+		"/home/scrith/src/C_Learn/TypesVarsOps.c",
+		"/home/scrith/src/C_Learn/HelloWorld.c",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/ThingsIveInstalled",
+		"/home/scrith/.Xmodmap",
+		"/home/scrith/.config/autostart/.desktop",
+		"/home/scrith/bin/startuptest",
+		"/home/scrith/.config/xkb/symbols/pc",
+		"/home/scrith/.xsession",
+		"/home/scrith/.config/xkb/symbols/local/pc",
+		"/home/scrith/Documents/python/FirstGame/main.py",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/httpprot",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/OverTheWire/Bandit",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/try_hack_me/Nmap",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/String_Search",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/systems/linux/LinuxNotes",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/Linux_Module/Linux_Exercises",
+		"/home/scrith/Desktop/MyNotes",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/Networking_Overview/Networking_Notes",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/systems/TestingServer/GenNotes",
+		"/home/scrith/examples.desktop",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/OverTheWire/-",
+		"/home/scrith/openVPN/academy.ovpn",
+		"/home/scrith/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+		"/home/scrith/.config/sublime-text-3/Packages/SideBarEnhancements/Default (Linux).sublime-keymap",
+		"/home/scrith/.config/sublime-text-3/Packages/User/Side Bar.sublime-settings",
+		"/home/scrith/.config/sublime-text-3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/obscure",
+		"/home/scrith/nmapdoc.md",
+		"/etc/proxychains4.conf",
+		"/etc/fstab",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/SystemPartitions",
+		"/home/scrith/bin/g",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/misc/FOSS_Substitutions",
+		"/home/scrith/hdd/Shay/Notes/Timeline",
+		"/home/scrith/test/test.txt",
+		"/home/scrith/test/bestbook-dl",
+		"/home/scrith/.bashrc",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/webrequests/Web Requests",
+		"/home/scrith/Documents/SublimeNotebook-master/notebook.sublime-project",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/webrequests/HTTPHeaders",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/systems/javascript/JavaScript",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/learningmodule/LearningHowToLearn",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/systems/linux/stdio",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/webrequests/Page8Exercise",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/htb/webrequests/webrequestsexercise",
+		"/home/scrith/Documents/SublimeNotebook-master/Notes/systems/TestingServer",
+		"/home/scrith/Documents/LearningHowToLearn",
+		"/home/scrith/Documents/LinuxNotes",
+		"/home/scrith/Documents/JavaScript.js",
+		"/home/scrith/Documents/HackTheBox/webrequests/exercises/exercise",
+		"/home/scrith/var/www/html/index.html",
+		"/home/scrith/Documents/HackTheBox/webrequests/webrequests.html",
+		"/home/scrith/Documents/ThingsIveInstalled",
+		"/home/scrith/Documents/HackTheBox/webrequests/reqHeadersExtraInfo.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 133.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gnome-tweak",
+			"gnome-tweal",
+			"nmap",
+			" ss ",
+			"ss ",
+			"ss -",
+			"ss -l",
+			"ss ",
+			"ss",
+			"remove",
+			"dupl",
+			"sed",
+			"grep",
+			"user@host",
+			"shadow",
+			"tr",
+			"uniq",
+			"cat",
+			"&&",
+			"pass: ",
+			"parent",
+			"php",
+			"server",
+			"npm",
+			"thebountyhunte@htb",
+			"cat: /etc/shadow: Permission denied",
+			"page",
+			"/proc",
+			"/usr/",
+			"/proC",
+			"/proc",
+			"categor",
+			"vuln ",
+			"vuln",
+			"scripting library",
+			"scan all ports",
+			"all port",
+			" port ",
+			"port",
+			"template",
+			"timing",
+			"save",
+			"version",
+			"services",
+			"OS",
+			"syn",
+			"/opt",
+			"whoami",
+			"kernel",
+			"whoami",
+			"mail",
+			"send",
+			"post",
+			"whoami",
+			"web req",
+			"alias",
+			"force_color_prompt",
+			"is [ ",
+			"kernel",
+			"mail",
+			"whoami",
+			"/dev",
+			"general"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"user@host:",
+			"",
+			"me@host"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
